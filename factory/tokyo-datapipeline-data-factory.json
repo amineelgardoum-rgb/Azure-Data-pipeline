@@ -1,0 +1,15 @@
+{
+	"name": "tokyo-datapipeline-data-factory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "germanywestcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a02c7404-76e6-4c32-883e-37775bfd5d86",
+		"tenantId": "494eeaea-d187-49de-8142-e4b39d914f85"
+	}
+}
